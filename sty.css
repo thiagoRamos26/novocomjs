@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0%;
+}
+.ola {
+    color: rgb(0, 82, 82);
+    text-align: center;
+}
